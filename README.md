@@ -1,0 +1,1 @@
+This repository contains the code for a model detecting mask on a person's face. The model uses opencv to detect the features from the real time videos and haarcascade_frontalface_default.xml file to extract the facial features of the person to detect the mask on their face
